@@ -90,8 +90,32 @@
 
     git merge <имя ветки из которой добавляем изменения>
 
-## Удаление веток
+## Создание веток
 
-Для удаления ветки используется команда:
-    
-    git branch -d branches
+Для создания ветки команда:
+
+  git branch branch_name
+
+## Переход между ветками
+
+Для перехода между ветками команда:
+
+  git checkout branch_name
+
+## Удаление ветки
+
+Для удаления ветки команда:
+
+  git branch -d branch_name
+
+## Удаленный репозиторий
+  
+  git remote add origin https://github.com/GDI-hub/git_instruction.git
+
+  git branch -M main
+
+  git push -u origin main
+  
+##  Получение данных из удаленного репозитория
+
+  git pull
