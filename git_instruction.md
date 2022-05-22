@@ -117,6 +117,11 @@ If you want to start working with GitHub, the first thing you need to do is to s
 
 [GitHub website](https://github.com/)
 
+### Forking projects
+
+In case you want to contribute to the project to which you don't have access, you can **fork** the project. It means that after forking the project you will get a copy of it. Now you are allowed to make changes to a project publicly.
+To fork a project, visit the project page and click the “Fork” button at the top-right of the page.
+
 ## Conclusion
 
 In case you need additional information about Git usage please follow the link and visit GIT website 
