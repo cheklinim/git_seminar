@@ -122,7 +122,7 @@ If you want to start working with GitHub, the first thing you need to do is to s
 In case you want to contribute to the project to which you don't have access, you can **fork** the project. It means that after forking the project you will get a copy of it. Now you are allowed to make changes to a project publicly.
 To fork a project, visit the project page and click the “Fork” button at the top-right of the page.
 
-### Git Pull and Git Push functions
+### Git clone, Git Pull and Git Push functions
 
 In case you want to work locally in Git after forking the project you need to do the following steps:
 
@@ -131,6 +131,16 @@ In case you want to work locally in Git after forking the project you need to do
 * then type **cd name_folder** command
 
 Now everything is ready to start working.
+
+After you finish changing a file locally you need to use a command below to be able to see these changes on GitHub website as well
+
+    git push 
+
+Follow the system to see a full command
+
+If you do changes on GitHub website use command below to see the changes in Git
+
+    git pull
 
 ## Conclusion
 
