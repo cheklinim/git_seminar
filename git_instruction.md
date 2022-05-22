@@ -144,7 +144,7 @@ If you do changes on GitHub website use command below to see the changes in Git
 
 ### Pull requests
 
-
+After finishing all changes and saving them, visit GitHub, find a folder which was forked and press **contribute** button. Then choose green button **open pull request**. After comparing changes and possible discussions press **create pull request** to contribute.
 
 ## Conclusion
 
