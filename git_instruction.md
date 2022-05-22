@@ -111,6 +111,12 @@ What is GitHub?
 
     GitHub is the largest host for Git repositories, and is the central point of collaboration for millions of developers and projects. 
 
+### Account setup
+
+If you want to start working with GitHub, the first thing you need to do is to set up a free user account on website
+
+[GitHub website](https://github.com/)
+
 ## Conclusion
 
 In case you need additional information about Git usage please follow the link and visit GIT website 
