@@ -142,6 +142,10 @@ If you do changes on GitHub website use command below to see the changes in Git
 
     git pull
 
+### Pull requests
+
+
+
 ## Conclusion
 
 In case you need additional information about Git usage please follow the link and visit GIT website 
