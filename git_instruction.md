@@ -105,6 +105,12 @@ In case you have already merged the information from one branch into another and
 
 To check the number of existing branches you can always use command **git branch** 
 
+## GitHub
+
+What is GitHub?
+
+    GitHub is the largest host for Git repositories, and is the central point of collaboration for millions of developers and projects. 
+
 ## Conclusion
 
 In case you need additional information about Git usage please follow the link and visit GIT website 
