@@ -113,4 +113,3 @@ In case you need additional information about Git usage please follow the link a
 
 Also you can download a free ProGit book which is available on out website.
 
-![ProGit Book](progit.png)
