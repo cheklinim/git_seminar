@@ -97,5 +97,8 @@
     git branch -d branches
 
 # Работа с удаленными репозиториями
+testing 
 testing
+
+
 
