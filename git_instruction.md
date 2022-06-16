@@ -95,3 +95,9 @@
 Для удаления ветки используется команда:
     
     git branch -d branches
+
+## Добавить описание команд
+
+    git clone
+    git pull
+    git push
