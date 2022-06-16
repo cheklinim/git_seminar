@@ -101,3 +101,5 @@
     git clone
     git pull
     git push
+
+Добавить скрин PullRequest
